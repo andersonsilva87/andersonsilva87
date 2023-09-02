@@ -13,4 +13,3 @@
   </br>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/andersonsilva87/count.svg" /></p>
   
-  ![Snake animation](https://github.com/andersonsilva87/andersonsilva87/blob/output/github-contribution-grid-snake.svg)

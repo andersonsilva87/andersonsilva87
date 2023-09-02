@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou o Anderson Silva 👋</h1>
 
-<h3 align="center">Sou Técnico em Informática e Dono do Site AS Empreendimentos.com</h3>
+<h3 align="center">Sou Técnico em Informática e Dono do Site AS Empreendimentos</h3>
 
 <h4 align="center">Atualmente trabalhando com Venda de Ferramentas Inteligentes e Criação de Sites. 💻</h4>
 
